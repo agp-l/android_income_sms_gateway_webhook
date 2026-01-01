@@ -92,15 +92,9 @@ $decoded = json_decode($payload, true);
 <img alt="Incoming SMS Webhook Gateway screenshot 1" src="https://raw.githubusercontent.com/bogkonstantin/android_income_sms_gateway_webhook/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="30%"/> <img alt="Incoming SMS Webhook Gateway screenshot 2" src="https://raw.githubusercontent.com/bogkonstantin/android_income_sms_gateway_webhook/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%"/> <img alt="Incoming SMS Webhook Gateway screenshot 3" src="https://raw.githubusercontent.com/bogkonstantin/android_income_sms_gateway_webhook/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="30%"/>
 
 ## Developers
-https://github.com/bogkonstantin/android_income_sms_gateway_webhook
-https://github.com/scottmconway/android_income_sms_gateway_webhook
+[https://github.com/scottmconway/android_income_sms_gateway_webhook](https://github.com/scottmconway/android_income_sms_gateway_webhook)
 
 ## Download apk
 
 Download apk from [release page](https://github.com/scottmconway/android_income_sms_gateway_webhook/releases)
 
-Or download it from F-Droid
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/tech.bogomolov.incomingsmsgateway/)
